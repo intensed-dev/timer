@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Made by Intense",
+    "min_format": [101, 1],
+    "max_format": [101, 1],
+    "pack_format": [101, 1]
+  }
+}
